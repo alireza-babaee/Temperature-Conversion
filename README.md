@@ -17,17 +17,22 @@ text### How to Use
    git clone https://github.com/alireza-babaee/Temperature-Conversion.git
 
 Navigate to the folder:Bashcd Temperature-Conversion
+
 Compile with g++:Bashg++ "Temperature Conversion.cpp" -o temp_converter
+
 Run the program:Bash./temp_converter        # Linux/macOS
 .\temp_converter.exe    # Windows
 
-Formula Used
+Formula Used:
 
 °C → °F: temp × 1.8 + 32
+
 °F → °C: (temp − 32) / 1.8
 
 Author
-Alireza Babaee
+Alireza Babaee / 
 GitHub: @alireza-babaee
+
 Feel free to fork, star, or contribute!
+
 Made with love and C++ in 2025
